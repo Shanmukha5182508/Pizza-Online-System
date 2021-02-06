@@ -1,0 +1,151 @@
+/*css Document*/
+
+div#hmenu{
+	 	margin:0;
+	 	padding:5px 0px 5px 0px;
+	 	background:4.jpg;
+	 	width:100%;
+	 	text-align:center;
+	 }
+
+div#hmenu ul{
+		list-style:none;
+		margin:0;
+		padding:0;
+	    }
+
+div#hmenu ul li{
+		 display:inline;
+		}
+
+div#hmenu ul a:link{
+	margin:0;
+	padding:5px 6px 5px 6px;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:medium;
+	color:#000000;
+}
+
+div#hmenu ul a:hover{
+margin:0;
+padding: .3em .4em .3em .4em;
+width:100%;
+text-align:center;
+
+}
+
+div#hmenu ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+
+div#hmenu ul li{
+display:inline;
+}
+
+div#hmenu ul a:link{
+	margin:0;
+	padding:5px 6px 5px 6px
+	text-decoration:none;
+	font-weight:bold;
+	font-size:medium;
+	color:blue;
+}
+
+div#hmenu ul a:link{
+margin:0;
+padding:.3em .4em .3em .4em;
+text-decoration:none;
+font-weight:bold;
+font-size:medium;
+color:blue;
+background-color:pink;
+} 
+
+
+/* Vmenu*/
+
+
+div#vmenu{
+
+	margin: 0;
+	padding: 4px 0px 4px 0px;
+	border: soild 1px #10c9e0;
+	background: pink;
+	width : 200px;
+	}
+
+	div#vmenu ul{
+	margin:0;
+	padding :0;
+	list-style:name;
+	}
+
+div#vmenu ul li{
+ 
+}
+
+div#vmenu ul a:link
+	{
+	margin:0;
+	padding : 3px 0px 3px 6px ;
+	text-decoration: none ;
+	font-weight:bold;
+	font-size :medium;
+	background-color:#fcac3c;
+	color: #0059a0;
+	display: inline;
+	}
+
+div#vmenu ul a: active
+	{
+ 	margin:0;
+	padding:4px 8px 4px 8px;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:medium;
+	background:#4d8cba;
+	color: #ffffff;
+	display:inline;
+	}
+
+div#vmenu ul a:visited
+	{
+ 	margin:0;
+	padding:4px 8px 4px 8px;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:medium;
+	background:pink;
+	color: #ffffff;
+	display:inline;
+	}
+
+div#vmenu ul li a:hover
+
+	{
+ 	margin:0;
+	padding:4px 8px 4px 8px;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:medium;
+	background:#30c9e0;
+	color: #ffffff;
+	display:block;
+	}
+
+
+div#style1
+{
+text-decoration:underline;
+font-weight:bold;
+font-align:center;
+color:blue;
+}
+
+
+
+
+
